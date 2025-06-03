@@ -1,4 +1,4 @@
 
 GitHub url " https://alexanderrikky10.github.io/story-project/#/login "
 
-Netlify url "https://jovial-biscochitos-8891b6.netlify.app/"
+Netlify url "https://story-app-rikky.netlify.app/#/login/"

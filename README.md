@@ -2,9 +2,7 @@
 
 ## Deskripsi
 
-adalah web app yang di bunakan untuk berbagi cerita.
-anda bisa mencobanya dengan mengclick link [link ](https://jovial-biscochitos-8891b6.netlify.app/#/login) ini 
-
+adalah web app yang di bunakan untuk berbagi cerita. anda bisa mencobanya dengan mengclick link [link ](https://story-app-rikky.netlify.app/#/login) ini
 
 ## Prasyarat
 
